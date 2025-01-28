@@ -1,0 +1,19 @@
+.parallax-header {
+  background-image: url("../../img.jpg");
+  height: 100vh; /* h-screen */
+  background-attachment: fixed; /* bg-fixed */
+  background-position: center; /* bg-center */
+  background-repeat: no-repeat; /* bg-no-repeat */
+  background-size: cover; /* bg-cover */
+  color: var(--color-light); /* text-[color:var(--color-light)] */
+  position: relative; /* relative */
+  display: flex; /* flex */
+  flex-direction: column; /* flex-col */
+  justify-content: center; /* justify-center */
+  align-items: center; /* items-center */
+  min-height: 100vh; /* min-h-screen */
+}
+
+.cursor-zoom-in {
+  cursor: zoom-in;
+}

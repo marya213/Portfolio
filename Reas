@@ -1,0 +1,53 @@
+Le SI est constitué d’actifs, de ressources : ce sont les éléments qui lui sont nécessaires pour fonctionner
+Une valeur métier constitue soit un processus soit une données / Information
+Actif, ressource
+Ces valeurs métiers :
+→ Rechercher & Développement
+→ Fabrication de vaccin
+→ Traçabilité
+→ Contrôle & Qualité 
+Nécessitent des ressources / actifs ou encore biens supports pour fonctionner.
+DICT pourra permettre d’évaluer les besoins en termes de sécurité pour les biens
+supports d’une entreprise.
+Les biens supports sont des éléments qui permettent de garantir le bon fonctionnement du SI.
+Disponibilité 
+Le SI doit fonctionner, être disponible afin de garantir l’accès aux services et aux ressources.
+Intégrité
+Les données ne doivent pas être altérées, de manière volontaire ou involontaire. Elles doivent
+demeurer exactes, être complètes.
+Confidentialité
+Seules les personnes autorisées doivent avoir accès aux ressources et aux informations.
+Traçabilité (Preuves)
+Assurer que les actions réalisées sur un SI soit tracées.
+Ces preuves doivent être stockées et être exploitables.
+
+On distinguera deux types d’expression de besoins :
+- Interne : inhérent aux fonctions métiers de l’entreprise.
+- Externe : les contraintes légales, clientes ou encore des prestataires et fournisseurs.
+
+Le Règlement Général sur la Protection des données
+Les 6 grands principes
+1) Collecter uniquement les données qui sont nécessaires
+2) La transparence
+3) Respecter le droit des personnes
+4) Fixer une durée de conservation
+5) Sécuriser les données, identifier les risques
+6) La conformité
+
+Les 6 grands principes de RGPD
+1) Collecter uniquement les données qui sont nécessaires
+2) La transparence
+3) Respecter le droit des personnes
+4) Fixer une durée de conservation
+5) Sécuriser les données, identifier les risques
+6) La conformité
+
+Une violation de la sécurité des données se caractérise par :
+- leur destruction ;
+- leur perte ;
+- l'altération ;
+- la divulgation non autorisée ;
+- l'accès non autorisé. 
+
+ANNsi
+CNIL
