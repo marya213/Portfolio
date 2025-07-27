@@ -119,7 +119,6 @@ const handleSubmit = (e) => {
   className="text-white text-lg hover:text-teal-300 transition duration-300"
   onClick={() => scrollToSection(cvRef)}
 >
-  CV
 </button>
 
           <button
@@ -145,11 +144,11 @@ const handleSubmit = (e) => {
     {/* Nom et description */}
     <div className="text-center">
       <h1 className="text-5xl md:text-6xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-blue-400 drop-shadow-lg animate-bounce">
-        Maria <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-blue-400">Bouchene</span>
+        Maria<span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-blue-400"></span>
       </h1>
       <p className="text-lg md:text-2xl mt-4 font-bold">
         Développeuse Web Front end 
-        <br /> Recherche un stage / alternance
+        <br /> Recherche d'alternance
       </p>
     </div>
   </div>
@@ -366,38 +365,6 @@ const handleSubmit = (e) => {
 </section>
 
 
-{/* Footer Section */}
-<section ref={cvRef} className="py-16 px-6 bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 relative">
-  {/* Decorative Elements */}
-  <div className="absolute top-0 left-0 w-24 h-24 bg-gradient-to-r from-purple-400 to-blue-400 blur-xl opacity-30 rounded-full animate-pulse"></div>
-  <div className="absolute bottom-0 right-0 w-32 h-32 bg-gradient-to-r from-blue-400 to-purple-400 blur-xl opacity-30 rounded-full animate-pulse"></div>
-
-  <h2 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-blue-400 mb-12 text-center">
-    Mon CV
-  </h2>
-
-  <div className="text-center mb-4">
-    <img
-      src="/CV.png"
-      alt="CV"
-      className="mx-auto mb-4 rounded-lg shadow-lg"
-      style={{ width: '70%', maxWidth: '400px' }}
-    />
-  </div>
-  <div className="text-center mb-4">
-    <a
-      href="/CV.png"
-      className="bg-purple-500 text-white px-4 py-2 rounded-lg shadow-lg hover:bg-blue-600 transition"
-      download
-    >
-
-
-         Télécharger mon CV
-
-    </a>
-  </div>
-</section>
-
 {/* Contact Section */}
 <section ref={contactRef} className="py-16 px-6">
       <h2 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-blue-400 mb-6 text-center">
@@ -471,7 +438,7 @@ const handleSubmit = (e) => {
   <div className="flex justify-center space-x-8 mt-8">
     {/* LinkedIn */}
     <a
-  href="https://www.linkedin.com/in/maria-bouchene-7801382a7"
+  href="https://www.linkedin.com/in/marya-b-7801382a7"
   target="_blank"
   rel="noopener noreferrer"
   aria-label="LinkedIn"
